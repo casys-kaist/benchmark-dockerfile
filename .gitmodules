@@ -1,0 +1,3 @@
+[submodule "NPB3.4/NPB3.4"]
+	path = npb/NPB3.4
+	url = git@github.com:casys-kaist/NPB3.4.git
