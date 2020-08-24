@@ -1,2 +1,6 @@
 # benchmark-dockerfile
-Dockerized benchmarks
+## Quick Start
+```
+$ cd <workload directory>
+$ ./build.sh
+```
