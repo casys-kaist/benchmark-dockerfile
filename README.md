@@ -1,4 +1,4 @@
-# benchmark-dockerfile
+# Benchmark Dockerfile
 ## Quick Start
 ```
 $ cd <workload directory>
