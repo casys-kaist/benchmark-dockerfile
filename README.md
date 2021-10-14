@@ -1,4 +1,6 @@
 # Benchmark Dockerfile
+This repository provides several docker files and scripts for benchmarks.
+
 ## Quick Start
 ```
 $ cd <workload directory>
